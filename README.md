@@ -1,4 +1,4 @@
-# bug-bounty-noob
+# bug-bounty-noob ( Yet to organize! Will Update Soon. )
 
 That tweet is only intended for Beginners/Freshers in bug bounty hunting who just started learning about this or want to start! If you are already doing hunting or doing labs then Maybe this won't be too much helpful to you. Thanks!
 
@@ -11,7 +11,7 @@ It all depends on interest and hard work, not on degree, age, branch, college, e
  3. Command line
  4. Linux
  5. Web technologies, javascript, PHP, java
- 6. At least 1 prog language (Python/C/JAVA/Ruby..)
+ 6. At least 1 prog language (Python/C/JAVA/Ruby/Golang etc..)
 
  Choose your path (imp)
 
