@@ -94,34 +94,44 @@ Practice Owasp Top 10 and Master at least one Bug.
 
 3. Top Tools that will be used on a daily Basis
 
-https://lnkd.in/e_XdiNf
+https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources
 
 4. Read and practice at Portswigger Academy
 
-https://lnkd.in/euqsViz
+https://portswigger.net/web-security
 
 5. Read On a daily basis
 
-https://lnkd.in/esRCAdz
+https://hackerone.com/hacktivity
 
-https://lnkd.in/e8mNTjf
+https://blog.intigriti.com/
 
-https://lnkd.in/euFhBUp https://lnkd.in/eVvQhs4 https://lnkd.in/eH8dcBw https://lnkd.in/etmSrGH
+https://pentester.land/list-of-bug-bounty-writeups.html
 
-https://lnkd.in/e2ea6q6
+https://infosecwriteups.com/
 
-https://lnkd.in/erX8FMc
+https://bugbountyguide.com/hunters/books.html
 
-https://lnkd.in/e-gFQSr
+https://owasp.org/www-project-web-security-testing-guide/v42/
 
-https://lnkd.in/etFbNCh https://lnkd.in/eXbkbKm
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md
+
+https://github.com/trimstray/the-book-of-secret-knowledge
+
+https://www.bugcrowd.com/hackers/bugcrowd-university/
+
+https://medium.com/tag/bug-bounty-writeup
 
 6. Checklists
 
-https://lnkd.in/eYjqC-r
+https://github.com/OWASP/wstg/tree/master/checklist
 
-https://lnkd.in/efSi574
+https://www.youtube.com/watch?v=uKWu6yhnhbQ  ( Methodology )
+
 ******
+
  Select a platform 
 
   1. Hackerone
@@ -130,7 +140,8 @@ https://lnkd.in/efSi574
   4. Zerocopter
   5. Antihack
   6. Synack (private)
-
+  7. YesWeHack
+ 
  1. Choose wisely (first not for bounty)
  2. Select a bug for hunt
  3. Exhaustive search
@@ -324,13 +335,13 @@ Url: https://t.co/v8FEe6skKN
 7. DotGit
 An extension to check if .git is exposed in visited websites.
 
-URL: https://t.co/xiOHkRh7kC 
+URL: https://addons.mozilla.org/en-US/firefox/addon/dotgit/
 
 
 8. Open Multiple URLs
 Opens a list of URLs
 
-URL: https://t.co/zHdEg1bsjc 
+URL: https://addons.mozilla.org/en-US/firefox/addon/open-multiple-urls/
 
 
 9. Cookie-Editor
