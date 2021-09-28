@@ -1,4 +1,4 @@
-# bug-bounty-noob ( Yet to organize! Will Update Soon. )
+# Bug-Bounty-n00b ( Yet to organize! Will Update Soon. )
 
 That tweet is only intended for Beginners/Freshers in bug bounty hunting who just started learning about this or want to start! If you are already doing hunting or doing labs then Maybe this won't be too much helpful to you. Thanks!
 
