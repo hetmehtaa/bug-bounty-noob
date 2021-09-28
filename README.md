@@ -132,28 +132,52 @@ https://www.youtube.com/watch?v=uKWu6yhnhbQ  ( Methodology )
 
 ******
 
- Select a platform 
+### Select a Platforms
 
-  1. Hackerone
-  2. Bugcrowd
-  3. Open bug bounty or any RDP
-  4. Zerocopter
-  5. Antihack
-  6. Synack (private)
-  7. YesWeHack
- 
+- [HackerOne](https://hackerone.com/)
+- [Bugcrowd](https://bugcrowd.com/)
+- [intigriti](https://intigriti.com/)
+- [YesWeHack](https://yeswehack.com/)
+- [Synack](https://www.synack.com/)
+- [HackenProof](https://hackenproof.com/)
+- [Detectify](https://cs.detectify.com/)
+- [Bugbountyjp](https://bugbounty.jp/)
+- [Safehats](https://safehats.com/)
+- [BugbountyHQ](https://www.bugbountyhq.com/)
+- [Hackerhive](https://hackerhive.io/)
+- [CESPPA](https://www.cesppa.com/)
+
+#### Few Responsible Public Disclosure 
+     
+ - [Google VDP](https://www.google.com/about/appsecurity/reward-program/)
+ - [Apple Bug Bounty](https://developer.apple.com/security-bounty/)
+ - [Microsoft Bug Bounty Program](https://www.microsoft.com/en-us/msrc/bounty)
+ - [Intel Security](https://www.intel.com/content/www/us/en/security-center/default.html)
+ - [Yahoo Security](https://safety.yahoo.com/Security/REPORTING-ISSUES.html)
+ - [Cisco VDP](https://tools.cisco.com/security/center/resources/security_vulnerability_policy.html)
+ - [Facebook Whitehat](https://www.facebook.com/whitehat/)
+ - [Dropbox Security](https://help.dropbox.com/accounts-billing/security/how-security-works)
+ - [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/)
+ - [Vimeo](https://vimeo.com/about/security)
+ - [Github](https://bounty.github.com/)
+ - [Uber Security](https://eng.uber.com/bug-bounty-map/)
+ - [PHP](https://bugs.php.net/report.php?bug_type=Security)
+ - [PayTM Security](https://paytm.com/offer/bug-bounty/)
+
+
  1. Choose wisely (first not for bounty)
  2. Select a bug for hunt
  3. Exhaustive search
  4. Not straightforward always
 
- REPORT:
+### REPORT:
 
  5. Create a descriptive report
  6. Follow responsible disclosure
  7. Create POC and steps to reproduce
 *******
-Words of wisdom
+
+### Words of wisdom
 
  1. PATIENCE IS THE KEY, takes years to master, don't fall for overnight success
  2. Do not expect someone will spoon feed you everything.
