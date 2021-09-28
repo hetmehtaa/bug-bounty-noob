@@ -164,6 +164,11 @@ https://www.youtube.com/watch?v=uKWu6yhnhbQ  ( Methodology )
  - [PHP](https://bugs.php.net/report.php?bug_type=Security)
  - [PayTM Security](https://paytm.com/offer/bug-bounty/)
 
+#### To Find More Programs, You Can Have a Look Into Google Dorkings.
+
+
+
+
 
  1. Choose wisely (first not for bounty)
  2. Select a bug for hunt
