@@ -43,10 +43,11 @@ Resources:
 Youtube channels:
 
    1. Live Overflow
-   2. Hackersploit
-   3. Bugcrowd
-   4. Hak5
-   5. Hackerone
+   2. John Hammond
+   3. Hackersploit
+   4. Bugcrowd
+   5. Hak5
+   6. Hackerone
 
  Must Check: https://blog.intigriti.com/2020/10/05/top-20-bug-bounty-youtube-channels-to-follow-in-2020/ 
 
@@ -80,6 +81,8 @@ Practice (imp)
   3. dirtbuster
   4. sublist3r
   5. Netcat
+  6. Python PWN Library
+  7. Metasploit framework
 
 Testing labs
 
